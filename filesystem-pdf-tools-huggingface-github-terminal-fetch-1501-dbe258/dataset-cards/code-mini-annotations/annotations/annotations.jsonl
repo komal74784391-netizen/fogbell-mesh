@@ -1,3 +1,0 @@
-{"annotation_id": "ann-0001", "blob_id": "b4f1c2", "label": "clean", "rationale": "No generated boilerplate detected.", "annotator": "rv-07"}
-{"annotation_id": "ann-0002", "blob_id": "b4f1c3", "label": "partial", "rationale": "Header comment repeats the repository licence text.", "annotator": "rv-12"}
-{"annotation_id": "ann-0003", "blob_id": "b4f1c9", "label": "clean", "rationale": "Reviewed against the source repository.", "annotator": "rv-07"}
